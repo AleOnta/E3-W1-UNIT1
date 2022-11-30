@@ -1,0 +1,34 @@
+body {
+  width: 99vw;
+  margin: 0;
+}
+
+header {
+  width: 100%;
+}
+
+header > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+header > hr {
+  height: 1px;
+  background-color: gold;
+  border: none;
+  margin-bottom: 0;
+}
+
+header > h3 {
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+  color: rgb(0, 128, 128);
+  background-color: #fff4d6;
+}
+
+main {
+  width: 50%;
+}
